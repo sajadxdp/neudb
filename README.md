@@ -33,7 +33,7 @@ Local prototypes and agents need inspectable persistence without running Postgre
 
 ## Solution
 
-A zero-dependency folder of human-readable JSON tables with atomic writes and pure-Python text + cosine search. Install from source (see Running Locally). Promo site: https://sajadinmaker.github.io/neudb/
+A zero-dependency folder of human-readable JSON tables with atomic writes and pure-Python text + cosine search. Install from source (see Running Locally). Promo site: https://sajadxdp.github.io/neudb/
 
 ## What it is / is NOT
 
